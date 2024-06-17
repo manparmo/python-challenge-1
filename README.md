@@ -9,7 +9,11 @@ From which menu would you like to order?
 2: Meals
 3: Drinks
 4: Dessert
-Type menu number: 1       <<<<< User enters 1 to Select 'Snacks'
+Type menu number: 1
+'''
+> [!NOTE]
+> User enters 1 to Select 'Snacks'.
+'''        
 You selected Snacks
 What Snacks item would you like to order?
 Item # | Item name                | Price
