@@ -9,14 +9,7 @@ From which menu would you like to order?
 2: Meals
 3: Drinks
 4: Dessert
-Type menu number: 1
-'''
-
-
-$${\color{orange}Orange}$$
-
-
-'''        
+Type menu number: 1    <<<<< User enters 1 to select 'Snacks'      
 You selected Snacks
 What Snacks item would you like to order?
 Item # | Item name                | Price
