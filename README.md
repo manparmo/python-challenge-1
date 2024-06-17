@@ -11,8 +11,12 @@ From which menu would you like to order?
 4: Dessert
 Type menu number: 1
 '''
+
+
 > [!NOTE]
 > User enters 1 to Select 'Snacks'.
+
+
 '''        
 You selected Snacks
 What Snacks item would you like to order?
