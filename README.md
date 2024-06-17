@@ -13,8 +13,7 @@ Type menu number: 1
 '''
 
 
-> [!NOTE]
-> User enters 1 to Select 'Snacks'.
+$${\color{orange}Orange}$$
 
 
 '''        
