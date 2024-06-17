@@ -2,6 +2,7 @@
 
 The code below explains the normal user flow for the Variety food truck application:
 
+```
 Welcome to the variety food truck.
 From which menu would you like to order? 
 1: Snacks
@@ -51,3 +52,4 @@ Cookie                    | $0.99  | 5
 Burger - Beef             | $8.49  | 2
 
 The total bill is: $21.93                    <<<< Total Price is displayed!!
+```
